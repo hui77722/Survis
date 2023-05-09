@@ -2,7 +2,7 @@
 
 ![Screenshot](/doc/survis.png)
 
-https://github.com/fabian-beck/survis![image](https://github.com/hui77722/Survis/assets/119120395/7e5c82f9-5724-4780-b4ee-aac404e0c878)
+
 https://github.com/fabian-beck/survis![Uploading image.png…]()
 
 SurVis is a flexible online browser to present and analyze scientific literature. The system is made for authors of survey articles, theses, or books who want to share their references in a user-friendly way. All you need to start is a bib file and a list of keywords for your papers.
