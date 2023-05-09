@@ -56,7 +56,7 @@ Beck, Fabian; Koch, Sebastian; Weiskopf, Daniel: Visual Analysis and Disseminati
 
 Please contact me (fabian.beck@visus.uni-stuttgart.de) if you know other collections using SurVis.
 
-## Contact
+## Contact(Original developer)
 
 Fabian Beck
 
