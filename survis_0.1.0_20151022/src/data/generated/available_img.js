@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","Aldhyani2020Water","Ahmed2019Efficient","Hmoudaladhaileh2021Modelling","Lu2020Hybrid","Ooi2021Bod5","Liu2019Analysis","Bui2020Improving","Nasir2022Water","Najahahmed2019Machine","Yan2020A"]});
